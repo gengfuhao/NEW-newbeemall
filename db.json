@@ -1,0 +1,96 @@
+{
+  "newGoodses": [
+    {
+      "id": 1,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "新品",
+      "comment": "新品上架"
+    },
+    {
+      "id": 2,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/7a406989-061b-4f69-baa1-6fa499aa091d.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "新品",
+      "comment": ""
+    },
+    {
+      "id": 3,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "新品",
+      "comment": "新商品"
+    },
+    {
+      "id": 4,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "新品",
+      "comment": "新商品"
+    }
+  ],
+  "hotGoodses": [
+    {
+      "id": 1,
+      "link": "/goods/detail/10195",
+      "title": "hot 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 100,
+      "counter": "热卖",
+      "comment": "新蜂精选 好物也可以不贵"
+    },
+    {
+      "id": 2,
+      "link": "/goods/detail/10195",
+      "title": "hot 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/7a406989-061b-4f69-baa1-6fa499aa091d.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 200,
+      "counter": "热卖",
+      "comment": "新蜂精选 好物也可以不贵"
+    },
+    {
+      "id": 3,
+      "link": "/goods/detail/10195",
+      "title": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 300,
+      "counter": "热卖",
+      "comment": "新蜂精选 好物也可以不贵"
+    },
+    {
+      "id": 4,
+      "link": "/goods/detail/10195",
+      "title": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 400,
+      "counter": "热卖",
+      "comment": "新蜂精选 好物也可以不贵"
+    },
+    {
+      "link": "/goods/detail/10195",
+      "title": "智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 500,
+      "counter": "热卖",
+      "comment": "新蜂精选 好物也可以不贵",
+      "id": 5
+    }
+  ]
+}
