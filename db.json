@@ -81,16 +81,6 @@
       "price": 400,
       "counter": "热卖",
       "comment": "新蜂精选 好物也可以不贵"
-    },
-    {
-      "link": "/goods/detail/10195",
-      "title": "智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
-      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
-      "price": 500,
-      "counter": "热卖",
-      "comment": "新蜂精选 好物也可以不贵",
-      "id": 5
     }
   ]
 }
