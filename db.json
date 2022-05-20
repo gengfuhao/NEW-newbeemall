@@ -82,5 +82,145 @@
       "counter": "热卖",
       "comment": "新蜂精选 好物也可以不贵"
     }
+  ],
+  "categories": [
+    {
+      "categoryName": "家电 数码 手机",
+      "categories": [
+        {
+          "categoryName": "家电",
+          "categories": [
+            {
+              "categoryName": "卷发器",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "电饭煲",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "微波炉",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "冰箱",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "数码",
+          "categories": [
+            {
+              "categoryName": "game",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "camera",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "TV",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "手机",
+          "categories": [
+            {
+              "categoryName": "Apple",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "HuaWei",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "Sony",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "女装 男装 穿搭",
+      "categories": [
+        {
+          "categoryName": "女装",
+          "categories": [
+            {
+              "categoryName": "外套",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "裙子",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "裤子",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "男装",
+          "categories": [
+            {
+              "categoryName": "外套",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "裤子",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "衬衫",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "运动 户外 乐器",
+      "categories": [
+        {
+          "categoryName": "运动",
+          "categories": [
+            {
+              "categoryName": "篮球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "羽毛球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "瑜伽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "户外",
+          "categories": [
+            {
+              "categoryName": "帐篷",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "露营",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "服饰",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

@@ -1,12 +1,12 @@
 <template>
-  <content-container></content-container>
+  <home-page></home-page>
 </template>
 
 <script>
-import ContentContainer from "./components/ContentContainer.vue";
+import HomePage from "./pages/HomePage.vue";
 export default {
   name: "App",
-  components: { ContentContainer },
+  components: { HomePage },
 };
 </script>
 
