@@ -1,7 +1,7 @@
 <template>
-  <a
+  <router-link
     class="goods-link"
-    :href="link"
+    :to="'/goodsDetail/' + goodsId"
     @mouseover="mouseover"
     @mouseleave="showComment = false"
   >
@@ -16,7 +16,7 @@
         <p></p>
       </div>
     </transition>
-  </a>
+  </router-link>
 </template>
 
 <script>
@@ -34,6 +34,7 @@ export default {
     price: Number,
     counter: String,
     comment: String,
+    goodsId: Number,
   },
   methods: {
     mouseover() {

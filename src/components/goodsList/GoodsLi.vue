@@ -18,7 +18,7 @@ export default {
 
 <style scoped>
 li {
-  width: 234px;
+  width: 220px;
   height: 360px;
   background-color: #fafafa;
   border-top: 1px solid #ffa500;

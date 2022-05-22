@@ -1,18 +1,18 @@
 <template>
   <div class="content-container">
-    <cate-item></cate-item>
+    <banner-com></banner-com>
     <sub-banner />
     <ul-container></ul-container>
   </div>
 </template>
 
 <script>
-import CateItem from "../components/category/CateItem.vue";
 import UlContainer from "../components/goodsList/UlContainer.vue";
 import SubBanner from "../components/goodsList/SubBanner.vue";
+import BannerCom from "../components/banner/BannerCom.vue";
 
 export default {
-  components: { UlContainer, SubBanner, CateItem },
+  components: { UlContainer, SubBanner, BannerCom },
 };
 </script>
 
@@ -20,6 +20,6 @@ export default {
 .content-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  align-items: center;
 }
 </style>

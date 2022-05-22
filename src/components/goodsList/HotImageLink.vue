@@ -15,6 +15,8 @@ export default {
 
 <style scoped>
 img {
-  height: 290px;
+  height: 250px;
+  opacity: 0.8;
+  margin: 10px;
 }
 </style>

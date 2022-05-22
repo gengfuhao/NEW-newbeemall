@@ -1,12 +1,13 @@
 <template>
-  <home-page></home-page>
+  <!-- <home-page></home-page> -->
+  <router-view></router-view>
 </template>
 
 <script>
-import HomePage from "./pages/HomePage.vue";
+//import HomePage from "./pages/HomePage.vue";
 export default {
   name: "App",
-  components: { HomePage },
+  // components: { HomePage },
 };
 </script>
 

@@ -2,9 +2,10 @@
   "newGoodses": [
     {
       "id": 1,
+      "goodsId": 10001,
       "link": "/goods/detail/10195",
       "title": "new 智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods1.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 250,
       "counter": "新品",
@@ -12,9 +13,10 @@
     },
     {
       "id": 2,
+      "goodsId": 10002,
       "link": "/goods/detail/10195",
       "title": "new 智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/7a406989-061b-4f69-baa1-6fa499aa091d.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods2.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 250,
       "counter": "新品",
@@ -22,9 +24,10 @@
     },
     {
       "id": 3,
+      "goodsId": 10003,
       "link": "/goods/detail/10195",
       "title": "new 智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods3.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 250,
       "counter": "新品",
@@ -32,9 +35,32 @@
     },
     {
       "id": 4,
+      "goodsId": 10004,
       "link": "/goods/detail/10195",
       "title": "new 智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods4.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "新品",
+      "comment": "新商品"
+    },
+    {
+      "id": 5,
+      "goodsId": 10005,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/goods2.jpg",
+      "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
+      "price": 250,
+      "counter": "新品",
+      "comment": "新商品"
+    },
+    {
+      "id": 5,
+      "goodsId": 10006,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/goods3.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 250,
       "counter": "新品",
@@ -44,9 +70,10 @@
   "hotGoodses": [
     {
       "id": 1,
+      "goodsId": 10001,
       "link": "/goods/detail/10195",
       "title": "hot 智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/3bfc7c72-b56a-4088-8acf-e01e830ce72a.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods1.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 100,
       "counter": "热卖",
@@ -54,9 +81,10 @@
     },
     {
       "id": 2,
+      "goodsId": 10002,
       "link": "/goods/detail/10195",
       "title": "hot 智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/7a406989-061b-4f69-baa1-6fa499aa091d.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods2.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 200,
       "counter": "热卖",
@@ -64,9 +92,10 @@
     },
     {
       "id": 3,
+      "goodsId": 10003,
       "link": "/goods/detail/10195",
       "title": "智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/8c1c9fb2-26aa-4fa0-b9ce-cf278d827fa6.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods3.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 300,
       "counter": "热卖",
@@ -74,9 +103,10 @@
     },
     {
       "id": 4,
+      "goodsId": 10004,
       "link": "/goods/detail/10195",
       "title": "智能降噪 长久续航",
-      "imgSrc": "http://localhost:8080/assets/images/8fc9776e-9393-421d-998c-e516b3877dba.jpg",
+      "imgSrc": "http://localhost:8080/assets/images/goods1.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
       "price": 400,
       "counter": "热卖",
@@ -221,6 +251,237 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "游戏 动漫 影视",
+      "categories": [
+        {
+          "categoryName": "游戏",
+          "categories": [
+            {
+              "categoryName": "switch",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "xbox",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "游戏周边",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        },
+        {
+          "categoryName": "动漫",
+          "categories": [
+            {
+              "categoryName": "动漫周边",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "漫画",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "鞋靴 箱包 配件",
+      "categories": [
+        {
+          "categoryName": "鞋靴",
+          "categories": [
+            {
+              "categoryName": "篮球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "羽毛球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "瑜伽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "家具 家饰 家纺",
+      "categories": [
+        {
+          "categoryName": "鞋靴",
+          "categories": [
+            {
+              "categoryName": "篮球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "羽毛球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "瑜伽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "美妆 清洁 宠物",
+      "categories": [
+        {
+          "categoryName": "鞋靴",
+          "categories": [
+            {
+              "categoryName": "篮球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "羽毛球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "瑜伽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "工具 装修 建材",
+      "categories": [
+        {
+          "categoryName": "鞋靴",
+          "categories": [
+            {
+              "categoryName": "篮球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "羽毛球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "瑜伽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "珠宝 金饰 眼镜",
+      "categories": [
+        {
+          "categoryName": "鞋靴",
+          "categories": [
+            {
+              "categoryName": "篮球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "羽毛球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "瑜伽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "鞋靴 箱包 配件",
+      "categories": [
+        {
+          "categoryName": "鞋靴",
+          "categories": [
+            {
+              "categoryName": "篮球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "羽毛球",
+              "link": "/goods/detail/10195"
+            },
+            {
+              "categoryName": "瑜伽",
+              "link": "/goods/detail/10195"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "swiper": [
+    {
+      "id": 1,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/slide1.jpg"
+    },
+    {
+      "id": 2,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/slide2.jpg"
+    },
+    {
+      "id": 3,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/slide3.jpg"
+    },
+    {
+      "id": 4,
+      "link": "/goods/detail/10195",
+      "title": "new 智能降噪 长久续航",
+      "imgSrc": "http://localhost:8080/assets/images/slide4.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "rating": 5,
+      "nickName": "user6",
+      "goodsId": 10001,
+      "goodsName": "华为 HUAWEI P30 Pro",
+      "count": 3,
+      "ratingAvg": null,
+      "reviewCount": null,
+      "titleCount": null,
+      "title": "742verygood",
+      "content": "content8",
+      "photo1": "742_20.image1.jpg",
+      "photo2": "742_20.image2.jpg",
+      "photo3": "742_20.image3.jpg",
+      "photo4": "742_20.image4.jpg",
+      "photo5": null,
+      "reviewDate": "2022-04-19T16:00:00.000+00:00"
+    },
+    {
+      "rating": 5,
+      "nickName": "user1",
+      "goodsId": null,
+      "goodsName": "华为 HUAWEI P30 Pro",
+      "count": 2,
+      "ratingAvg": null,
+      "reviewCount": null,
+      "titleCount": null,
+      "title": "742verygood",
+      "content": "content2",
+      "photo1": "742_2.image1.jpg",
+      "photo2": null,
+      "photo3": null,
+      "photo4": null,
+      "photo5": null,
+      "reviewDate": "2022-04-02T16:00:00.000+00:00"
     }
   ]
 }

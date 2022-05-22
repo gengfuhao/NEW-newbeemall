@@ -42,8 +42,9 @@ let categories = computed(() => store.getters.getCategories);
 
 //鼠标放上去(mouseOver),显示第二三级别(display = "block")，
 const mouseOverFun = (event) => {
-  console.log("event", event.target);
-  event.target.querySelector(".item-list").style.display = "block";
+  // console.log("event", event.target);
+  let style = "top:" + event.target.offsetTop + "px; display:block";
+  event.target.querySelector(".item-list").style = style;
 };
 //鼠标拿开(mouseLeave),消失(display = "none")
 const mouseLeaveFun = (event) => {
@@ -60,6 +61,7 @@ const mouseLeaveFun = (event) => {
   border-top: none;
   background: #000;
   height: 100%;
+  margin-left: 30px;
 }
 .all-sort-list .item {
   height: 49px;

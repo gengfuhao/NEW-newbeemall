@@ -20,5 +20,6 @@ export default {
   flex-shrink: 0;
   height: 398px;
   margin-top: 20px;
+  flex-wrap: wrap;
 }
 </style>

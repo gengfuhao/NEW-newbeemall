@@ -28,7 +28,8 @@ export default {
 <style>
 .flex-ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   list-style-type: none;
+  flex-wrap: wrap;
 }
 </style>
