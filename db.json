@@ -2,7 +2,7 @@
   "newGoodses": [
     {
       "id": 1,
-      "goodsId": 10001,
+      "goodsId": 10195,
       "link": "/goods/detail/10195",
       "title": "new 智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods1.jpg",
@@ -13,8 +13,8 @@
     },
     {
       "id": 2,
-      "goodsId": 10002,
-      "link": "/goods/detail/10195",
+      "goodsId": 10196,
+      "link": "/goods/detail/10196",
       "title": "new 智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods2.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
@@ -24,8 +24,8 @@
     },
     {
       "id": 3,
-      "goodsId": 10003,
-      "link": "/goods/detail/10195",
+      "goodsId": 10197,
+      "link": "/goods/detail/10197",
       "title": "new 智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods3.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
@@ -35,8 +35,8 @@
     },
     {
       "id": 4,
-      "goodsId": 10004,
-      "link": "/goods/detail/10195",
+      "goodsId": 10198,
+      "link": "/goods/detail/10198",
       "title": "new 智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods4.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
@@ -70,7 +70,7 @@
   "hotGoodses": [
     {
       "id": 1,
-      "goodsId": 10001,
+      "goodsId": 10195,
       "link": "/goods/detail/10195",
       "title": "hot 智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods1.jpg",
@@ -81,8 +81,8 @@
     },
     {
       "id": 2,
-      "goodsId": 10002,
-      "link": "/goods/detail/10195",
+      "goodsId": 10196,
+      "link": "/goods/detail/10196",
       "title": "hot 智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods2.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
@@ -92,8 +92,8 @@
     },
     {
       "id": 3,
-      "goodsId": 10003,
-      "link": "/goods/detail/10195",
+      "goodsId": 10197,
+      "link": "/goods/detail/10197",
       "title": "智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods3.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
@@ -103,8 +103,8 @@
     },
     {
       "id": 4,
-      "goodsId": 10004,
-      "link": "/goods/detail/10195",
+      "goodsId": 10198,
+      "link": "/goods/detail/10198",
       "title": "智能降噪 长久续航",
       "imgSrc": "http://localhost:8080/assets/images/goods1.jpg",
       "name": "索尼1 WH-1000XM3 头戴式耳机 麒麟显卡 16G内...",
@@ -446,16 +446,14 @@
       "imgSrc": "http://localhost:8080/assets/images/slide4.jpg"
     }
   ],
-  "reviews": [
+  "goodsDetailReview": [
     {
+      "id": 1,
       "rating": 5,
       "nickName": "user6",
-      "goodsId": 10001,
+      "goodsId": 10195,
       "goodsName": "华为 HUAWEI P30 Pro",
       "count": 3,
-      "ratingAvg": null,
-      "reviewCount": null,
-      "titleCount": null,
       "title": "742verygood",
       "content": "content8",
       "photo1": "742_20.image1.jpg",
@@ -463,17 +461,31 @@
       "photo3": "742_20.image3.jpg",
       "photo4": "742_20.image4.jpg",
       "photo5": null,
-      "reviewDate": "2022-04-19T16:00:00.000+00:00"
+      "reviewDate": "2022-04-19"
     },
     {
+      "id": 2,
+      "rating": 3,
+      "nickName": "user6",
+      "goodsId": 10195,
+      "goodsName": "华为 HUAWEI P30 Pro",
+      "count": 5,
+      "title": "742verygood",
+      "content": "content8",
+      "photo1": "742_20.image1.jpg",
+      "photo2": "742_20.image2.jpg",
+      "photo3": "742_20.image3.jpg",
+      "photo4": "742_20.image4.jpg",
+      "photo5": null,
+      "reviewDate": "2022-04-19"
+    },
+    {
+      "id": 3,
       "rating": 5,
       "nickName": "user1",
-      "goodsId": null,
+      "goodsId": 10196,
       "goodsName": "华为 HUAWEI P30 Pro",
       "count": 2,
-      "ratingAvg": null,
-      "reviewCount": null,
-      "titleCount": null,
       "title": "742verygood",
       "content": "content2",
       "photo1": "742_2.image1.jpg",
@@ -481,7 +493,69 @@
       "photo3": null,
       "photo4": null,
       "photo5": null,
-      "reviewDate": "2022-04-02T16:00:00.000+00:00"
+      "reviewDate": "2022-04-02"
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "nickName": "user2",
+      "goodsId": 10196,
+      "goodsName": "华为 HUAWEI P30 Pro",
+      "count": 2,
+      "title": "742verygood",
+      "content": "content2",
+      "photo1": "742_2.image1.jpg",
+      "photo2": null,
+      "photo3": null,
+      "photo4": null,
+      "photo5": null,
+      "reviewDate": "2022-04-02"
+    }
+  ],
+  "goodsDetailReviewTotal": [
+    {
+      "goodsId": 10195,
+      "ratingAvg": 4.0,
+      "reviewCount": 2,
+      "titleCount": 2
+    },
+    {
+      "goodsId": 10196,
+      "ratingAvg": 4.5,
+      "reviewCount": 2,
+      "titleCount": 2
+    }
+  ],
+  "goodsDetailReviewRating": [
+    {
+      "goodsId": 10195,
+      "rating": [
+        {
+          "rating": 5,
+          "percentage": 50,
+          "ratingCount": 1
+        },
+        {
+          "rating": 4,
+          "percentage": 0,
+          "ratingCount": 0
+        },
+        {
+          "rating": 3,
+          "percentage": 50,
+          "ratingCount": 1
+        },
+        {
+          "rating": 2,
+          "percentage": 0,
+          "ratingCount": 0
+        },
+        {
+          "rating": 1,
+          "percentage": 0,
+          "ratingCount": 0
+        }
+      ]
     }
   ]
 }

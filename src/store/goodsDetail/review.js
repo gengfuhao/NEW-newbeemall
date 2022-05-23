@@ -1,4 +1,4 @@
-const url = "http://localhost:3000/reviews";
+const url = "http://localhost:3000/goods/detail/review/";
 const headers = { Accept: "application/json" };
 
 export default {
@@ -10,13 +10,14 @@ export default {
     setReviews(state, payload) {
       state.reviews.push(...payload);
       //state.reviews = payload
+      // state.reviews = payload[0];
       console.log("array push ", payload);
     },
   },
   actions: {
     //asyncronous
-    async setReviews(state) {
-      const reviews = await fetch(url, { headers });
+    async setReviews(state, payload) {
+      const reviews = await fetch(url + payload, { headers });
       const j = await reviews.json();
       state.commit("setReviews", j);
       console.log("in setReviews method", j);

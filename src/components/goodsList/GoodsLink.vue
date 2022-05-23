@@ -1,7 +1,7 @@
 <template>
   <router-link
     class="goods-link"
-    :to="'/goodsDetail/' + goodsId"
+    :to="link"
     @mouseover="mouseover"
     @mouseleave="showComment = false"
   >

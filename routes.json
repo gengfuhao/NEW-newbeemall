@@ -1,0 +1,5 @@
+{
+  "/goods/detail/review/:goodsId": "/goodsDetailReview?goodsId=:goodsId",
+  "/goods/detail/review/total/:goodsId": "/goodsDetailReviewTotal?goodsId=:goodsId",
+  "/goods/detail/review/rating/:goodsId": "goodsDetailReviewRatinggoodsId=:goodsId"
+}

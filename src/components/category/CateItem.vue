@@ -10,10 +10,7 @@
       <h3>
         <span>·</span><a href="##">{{ levelOneCat.categoryName }}</a>
       </h3>
-      <div
-        class="item-list clearfix"
-        :style="{ top: '0px', display: displayOrNot }"
-      >
+      <div class="item-list clearfix" :style="{ top: '0px' }">
         <div class="subitem">
           <cate-subitem :categories2="levelOneCat.categories"></cate-subitem>
         </div>

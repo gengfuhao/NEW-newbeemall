@@ -11,8 +11,9 @@ export default createRouter({
       alias: "/home",
     },
     {
-      path: "/goodsDetail/:goodsId",
+      path: "/goods/detail/:goodsId",
       component: GoodsDetail,
+      props: true,
     },
   ],
 });
